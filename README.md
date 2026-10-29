@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Neyton28
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning paython, dev ops, react
+
